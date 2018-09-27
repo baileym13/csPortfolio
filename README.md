@@ -1,7 +1,7 @@
 # csPortfolio
 * MyWebPage [here](https://baileym13.github.io/webPage/dogPage/)
 * Lightning [here](https://baileym13.github.io/lightning2/)
-
+* Lightning JS [here](https://baileym13.github.io/lightning2/wizJS/)
 ```Java
 while(endX2<=301)
   {
