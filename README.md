@@ -3,7 +3,7 @@
 * Lightning [here](https://baileym13.github.io/lightning2/index.html)
 * Lightning JS [here](https://baileym13.github.io/lightning2/wizJS/)
 * Dice [here](https://baileym13.github.io/dice3/)
-* College Presentation [here](<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTtRuDra-o5QG_VG1JsPcMCz6DuLpgKQ9KB-BCUCgpqbUZhDxl-JE89xSZNWhuGXtcXcQ5jGs4bzy_D/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>)
+* College Presentation [here](https://docs.google.com/presentation/d/e/2PACX-1vTtRuDra-o5QG_VG1JsPcMCz6DuLpgKQ9KB-BCUCgpqbUZhDxl-JE89xSZNWhuGXtcXcQ5jGs4bzy_D/embed?start=true&loop=true&delayms=3000)
 ```Java
 while(endX2<=301)
   {
