@@ -4,6 +4,7 @@
 * Lightning JS [here](https://baileym13.github.io/lightning2/wizJS/)
 * Dice [here](https://baileym13.github.io/dice3/)
 * College Presentation [here](https://docs.google.com/presentation/d/e/2PACX-1vTtRuDra-o5QG_VG1JsPcMCz6DuLpgKQ9KB-BCUCgpqbUZhDxl-JE89xSZNWhuGXtcXcQ5jGs4bzy_D/embed?start=true&loop=true&delayms=3000)
+* Chemotaxis [here](https://baileym13.github.io/chemotaxis4/)
 ```Java
 while(endX2<=301)
   {
