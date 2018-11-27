@@ -52,7 +52,7 @@ image(wiz,5,215);
 }
 ```
 
-
+## Computer Science Reflection
 1. My projects tend to rely on creativity, to add the extra element that makes them interesting.
 2. I really enjoy the artistic and themely aspects of my coding. I try to step above the assignment and make the project interesting. 
 3. I am proud that i got my lighning in the lighning project to all go to the same place. That way it looks like magic. 
