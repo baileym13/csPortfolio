@@ -1,19 +1,19 @@
 # Madison's csPortfolio
 * MyWebPage [here](https://baileym13.github.io/webPage/dogPage/)
-This was the first project that heavily relied on HTML
+>This was the first project that heavily relied on HTML
 * Lightning [here](https://baileym13.github.io/lightning2/index.html)
-This is my favorite project, aesthetically.
+>This is my favorite project, aesthetically.
 * Lightning JS [here](https://baileym13.github.io/lightning2/wizJS/)
-The same project, but through JS
+>The same project, but through JS
 * Dice [here](https://baileym13.github.io/dice3/)
-This relied on Math.random.
+>This relied on Math.random.
 * College Presentation [here](https://docs.google.com/presentation/d/e/2PACX-1vTtRuDra-o5QG_VG1JsPcMCz6DuLpgKQ9KB-BCUCgpqbUZhDxl-JE89xSZNWhuGXtcXcQ5jGs4bzy_D/embed?start=true&loop=true&delayms=3000)
-College presentation on Carleton Colege
+>College presentation on Carleton Colege
 * Chemotaxis [here](https://baileym13.github.io/chemotaxis4/)
-A festive themed project using Math.random
+>A festive themed project using Math.random
 * Starfield [here](https://baileym13.github.io/starfield5/)
-Project using inheritance.
-
+>Project using inheritance.
+## Madison's Code Selection
 ```Java
 void draw()
 {
