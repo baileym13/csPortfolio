@@ -1,4 +1,4 @@
-# Madison's csPortfolio
+# Madison's csPortfolio :smile:
 * MyWebPage [here](https://baileym13.github.io/webPage/dogPage/)
 >This was the first project that heavily relied on HTML
 * Lightning [here](https://baileym13.github.io/lightning2/index.html)
