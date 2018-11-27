@@ -45,3 +45,8 @@ image(wiz,5,215);
 }
 ```
 This code shows the draw method of my wizard lightning project. Math.random is used to create the lighning effect so the bolt of light ends up in random locations but still in a line. The starting and ending locations are changed so it always starts and ends in the same place.
+1. My projects tend to rely on creativity, to add the extra element that makes them interesting.
+2. I really enjoy the artistic and themely aspects of my coding. I try to step above the assignment and make the project interesting. 
+3. I am proud that i got my lighning in the lighning project to all go to the same place. That way it looks like magic. 
+4. The hardest hurdle I went through was making the pumkins in chemotaxis change into jack o lanterns, I resolved it by seeking Dr. R's help and the classes as help. 
+6. The first development process was to just accomplish lighning shooting across the screen for the above code. Once I accomplished that, I had to move the lightning to specific spots. I did that with starting and ending points. This development was very collaborative as i asked help of my peers many times. 
