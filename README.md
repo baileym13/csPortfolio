@@ -44,7 +44,7 @@ wiz.resize(60,70);
 image(wiz,5,215);
 }
 ```
-This code shows the draw method of my wizard lightning project. Math.random is used to create the lighning effect so the bolt of light ends up in random locations but still in a line. The starting and ending locations are changed so it always starts and ends in the same place.
+5. This code shows the draw method of my wizard lightning project. Math.random is used to create the lighning effect so the bolt of light ends up in random locations but still in a line. The starting and ending locations are changed so it always starts and ends in the same place.
 1. My projects tend to rely on creativity, to add the extra element that makes them interesting.
 2. I really enjoy the artistic and themely aspects of my coding. I try to step above the assignment and make the project interesting. 
 3. I am proud that i got my lighning in the lighning project to all go to the same place. That way it looks like magic. 
