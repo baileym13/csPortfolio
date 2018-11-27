@@ -1,18 +1,18 @@
 # Madison's csPortfolio :smile:
 * MyWebPage [here](https://baileym13.github.io/webPage/dogPage/)
->This was the first project that heavily relied on HTML
+>This was the first project that heavily relied on HTML. The content is meant to be somewhat ironic, playing fun at the idea of artsy hipster people. My best feature is the page slowly turning blue. 
 * Lightning [here](https://baileym13.github.io/lightning2/index.html)
->This is my favorite project, aesthetically.
+>This is my favorite project, aesthetically. It was a happy accident that the lightning all ended up going to one spot, so I saw this and thought of magic, which inspired the rest of the project. 
 * Lightning JS [here](https://baileym13.github.io/lightning2/wizJS/)
->The same project, but through JS
+>The same project as above, but through JS. 
 * Dice [here](https://baileym13.github.io/dice3/)
->This relied on Math.random.
+>This relied on Math.random. I didn't love this project, but I did my best to make it fun with large images appearing on the screen. 
 * College Presentation [here](https://docs.google.com/presentation/d/e/2PACX-1vTtRuDra-o5QG_VG1JsPcMCz6DuLpgKQ9KB-BCUCgpqbUZhDxl-JE89xSZNWhuGXtcXcQ5jGs4bzy_D/embed?start=true&loop=true&delayms=3000)
->College presentation on Carleton Colege
+>College presentation on Carleton College.
 * Chemotaxis [here](https://baileym13.github.io/chemotaxis4/)
->A festive themed project using Math.random
+>A festive themed project using Math.random. i had a lot of help from Dr. R and the class on making the pumpkins turning to Jack O Lanterns. 
 * Starfield [here](https://baileym13.github.io/starfield5/)
->Project using inheritance.
+>Project using inheritance. I used bright colors to be aesthetically pleasing. 
 ## Madison's Code Selection
 ```Java
 void draw()
@@ -57,5 +57,5 @@ image(wiz,5,215);
 2. I really enjoy the artistic and themely aspects of my coding. I try to step above the assignment and make the project interesting. 
 3. I am proud that i got my lighning in the lighning project to all go to the same place. That way it looks like magic. 
 4. The hardest hurdle I went through was making the pumkins in chemotaxis change into jack o lanterns, I resolved it by seeking Dr. R's help and the classes as help. 
-5. This code shows the draw method of my wizard lightning project. Math.random is used to create the lighning effect so the bolt of light ends up in random locations but still in a line. The starting and ending locations are changed so it always starts and ends in the same place.
-6. The first development process was to just accomplish lighning shooting across the screen for the above code. Once I accomplished that, I had to move the lightning to specific spots. I did that with starting and ending points. This development was very collaborative as i asked help of my peers many times. 
+5. The code above shows the draw method of my wizard lightning project. Math.random is used to create the lighning effect so the bolt of light ends up in random locations but still in a line. The starting and ending locations are changed so it always starts and ends in the same place.
+6. The first development process of the code above was to just accomplish lighning shooting across the screen for the above code. Once I accomplished that, I had to move the lightning to specific spots. I did that with starting and ending points. This development was very collaborative as i asked help of my peers many times with the orginal basic code of the project. Getting deeper within the project, I was independent and relied on guessing and checking and looking at API to solve problems. 
