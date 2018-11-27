@@ -44,3 +44,4 @@ wiz.resize(60,70);
 image(wiz,5,215);
 }
 ```
+This code shows the draw method of my wizard lightning project. Math.random is used to create the lighning effect so the bolt of light ends up in random locations but still in a line. The starting and ending locations are changed so it always starts and ends in the same place.
