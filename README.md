@@ -13,6 +13,10 @@
 >A festive themed project using Math.random. i had a lot of help from Dr. R and the class on making the pumpkins turning to Jack O Lanterns. 
 * Starfield [here](https://baileym13.github.io/starfield5/)
 >Project using inheritance. I used bright colors to be aesthetically pleasing. 
+
+Inline-style: 
+![alt text](images/star.png "Logo Title Text 1")
+
 ## Madison's Code Selection
 ```Java
 void draw()
