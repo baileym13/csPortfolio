@@ -1,21 +1,17 @@
 # Madison's csPortfolio :smile:
 * MyWebPage [here](https://baileym13.github.io/webPage/dogPage/)
 >This was the first project that heavily relied on HTML. The content is meant to be somewhat ironic, playing fun at the idea of artsy hipster people. My best feature is the page slowly turning blue. 
-* Lightning JS [here](https://baileym13.github.io/lightning2/wizJS/)
+* Lightning JS
 >This is my favorite project, aesthetically. It was a happy accident that the lightning all ended up going to one spot, so I saw this and thought of magic, which inspired the rest of the project. 
 ![alt text](images/lightning.png "Logo Title Text 1")
 
 * Dice
-![alt text](images/dice.png "Logo Title Text 1")
-
 >This relied on Math.random. I didn't love this project, but I did my best to make it fun with large images appearing on the screen. 
+![alt text](images/dice.png "Logo Title Text 1")
 * College Presentation [here](https://docs.google.com/presentation/d/e/2PACX-1vTtRuDra-o5QG_VG1JsPcMCz6DuLpgKQ9KB-BCUCgpqbUZhDxl-JE89xSZNWhuGXtcXcQ5jGs4bzy_D/embed?start=true&loop=true&delayms=3000)
 >College presentation on Carleton College.
-* Chemotaxis [here](https://baileym13.github.io/chemotaxis4/)
->A festive themed project using Math.random. i had a lot of help from Dr. R and the class on making the pumpkins turning to Jack O Lanterns. 
 * Starfield [here](https://baileym13.github.io/starfield5/)
 >Project using inheritance. I used bright colors to be aesthetically pleasing. 
-
 Inline-style: 
 ![alt text](images/star.png "Logo Title Text 1")
 
