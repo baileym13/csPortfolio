@@ -21,43 +21,20 @@ Inline-style:
 
 * Bachelor FINAL Project
 >Sydney, Shayla, and I worked intensely on this project and are very proud of our work! We had a lot of struggles, but we worked through all our problems.
-![alt text](images/bachfinal.png "Logo Title Text 1")
+![alt text](bachfinal.png "Logo Title Text 1")
 ## Madison's Code Selection
 ```Java
-void draw()
-{
-   background(backRed);
-    
-  stroke(0,0,(int)(Math.random()*255)+1);
-  while(endX<=301)
-  {
-    endX=startX+(int)(Math.random()*18)-5;
-    endY=startY +(int)(Math.random()*18)-12;
-    line(startX,startY,endX,endY);
-    startX=endX;
-    startY=endY;
-  }
-   stroke((int)(Math.random()*255)+1,0,(int)(Math.random()*255)+1);
-  while(endX2<=301)
-  {
-    endX2=startX2+(int)(Math.random()*15)-5;
-    endY2=startY2 +(int)(Math.random()*15)-12;
-    line(startX2,startY2,endX2,endY2);
-    startX2=endX2;
-    startY2=endY2;
-  }
- startX=50;
-startY=230;
-endX=150;
-endY=200;
-
- startX2=50;
-startY2=230;
-endX2=0;
-endY2=200;
-ellipse(40,40,75,75);
-wiz.resize(60,70);
-image(wiz,5,215);
+  TreeNode buildTree(){
+     
+    root = new TreeNode("Do you fall in love quickly?");
+    //level one
+    root.setLeft(new TreeNode("Do you like to stir the pot"));
+    root.setRight(new TreeNode("What if they're Instagram famous?"));
+    //level two
+    root.getLeft().setRight(new TreeNode("The Bachelor" ));
+    root.getRight().setLeft(new TreeNode("The Bachelorette" ));
+    root.getLeft().setLeft(new TreeNode("Bachelor in Paradise" ));
+    root.getRight().setRight(new TreeNode("Avoid these shows at all costs"));
 }
 ```
 
@@ -66,5 +43,5 @@ image(wiz,5,215);
 2. I really enjoy the artistic and themely aspects of my coding. I try to step above the assignment and make the project interesting. 
 3. I am proud that i got my lighning in the lighning project to all go to the same place. That way it looks like magic. 
 4. The hardest hurdle I went through was making the pumkins in chemotaxis change into jack o lanterns, I resolved it by seeking Dr. R's help and the classes as help. 
-5. The code above shows the draw method of my wizard lightning project. Math.random is used to create the lighning effect so the bolt of light ends up in random locations but still in a line. The starting and ending locations are changed so it always starts and ends in the same place.
-6. The first development process of the code above was to just accomplish lighning shooting across the screen for the above code. Once I accomplished that, I had to move the lightning to specific spots. I did that with starting and ending points. This development was very collaborative as i asked help of my peers many times with the orginal basic code of the project. Getting deeper within the project, I was independent and relied on guessing and checking and looking at API to solve problems. 
+5. This code shows where we built our tree for the final project. Trying to find where each node wss in the tree to print it was very difficult for us. 
+6. For lightning, The first development process of the code above was to just accomplish lighning shooting across the screen for the above code. Once I accomplished that, I had to move the lightning to specific spots. I did that with starting and ending points. This development was very collaborative as i asked help of my peers many times with the orginal basic code of the project. Getting deeper within the project, I was independent and relied on guessing and checking and looking at API to solve problems. 
