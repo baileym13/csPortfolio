@@ -18,6 +18,10 @@ Inline-style:
 * Bachelor Data Project
 >This has definitely been my favorite project I've made! Sydney, Shayla, and I worked intensely on this porject and are very proud of our work!
 ![alt text](images/bach.png "Logo Title Text 1")
+
+* Bachelor FINAL Project
+>Sydney, Shayla, and I worked intensely on this project and are very proud of our work! We had a lot of struggles, but we worked through all our problems.
+![alt text](images/bachfinal.png "Logo Title Text 1")
 ## Madison's Code Selection
 ```Java
 void draw()
