@@ -1,11 +1,13 @@
 # Madison's csPortfolio :smile:
 * MyWebPage [here](https://baileym13.github.io/webPage/dogPage/)
 >This was the first project that heavily relied on HTML. The content is meant to be somewhat ironic, playing fun at the idea of artsy hipster people. My best feature is the page slowly turning blue. 
-* Lightning [here](https://baileym13.github.io/lightning2/index.html)
->This is my favorite project, aesthetically. It was a happy accident that the lightning all ended up going to one spot, so I saw this and thought of magic, which inspired the rest of the project. 
 * Lightning JS [here](https://baileym13.github.io/lightning2/wizJS/)
->The same project as above, but through JS. 
-* Dice [here](https://baileym13.github.io/dice3/)
+>This is my favorite project, aesthetically. It was a happy accident that the lightning all ended up going to one spot, so I saw this and thought of magic, which inspired the rest of the project. 
+![alt text](images/lightning.png "Logo Title Text 1")
+
+* Dice
+![alt text](images/dice.png "Logo Title Text 1")
+
 >This relied on Math.random. I didn't love this project, but I did my best to make it fun with large images appearing on the screen. 
 * College Presentation [here](https://docs.google.com/presentation/d/e/2PACX-1vTtRuDra-o5QG_VG1JsPcMCz6DuLpgKQ9KB-BCUCgpqbUZhDxl-JE89xSZNWhuGXtcXcQ5jGs4bzy_D/embed?start=true&loop=true&delayms=3000)
 >College presentation on Carleton College.
